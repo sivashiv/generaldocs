@@ -1,5 +1,4 @@
 hello world!!
-how are you?
 This is from the command line
 This is using git local commit
 Commit to a new branch
